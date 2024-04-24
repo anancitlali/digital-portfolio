@@ -1,0 +1,4 @@
+**/*.log
+.DS_store
+.ipynb_checkpoints
+_build
